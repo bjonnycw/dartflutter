@@ -1,0 +1,18 @@
+{
+  
+  "nome" : "Daniel",
+  "altura" : 1.82,
+  "instrutor" : true,
+  "cursos" : [
+    "Flutter",
+    "Godot",
+    "Java"
+    ],
+    "dados" : {
+      "dado1" : {
+        "nome" : "Jonny"
+      }
+    }
+  
+  
+}
